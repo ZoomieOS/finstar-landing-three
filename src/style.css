@@ -55,7 +55,7 @@
     .bg-glow-hero {
         top: -90%;
         left: -25%;
-        background: radial-gradient(50% 50% at 50% 50%, rgba(239, 225, 179, 0.7) 0%, rgba(239, 225, 179, 0) 100%);
+        background: radial-gradient(50% 50% at 50% 50%, rgba(182, 239, 179, 0.7) 0%, rgba(182, 239, 179, 0) 100%);
     }
 
     .bg-glow-advantages {
